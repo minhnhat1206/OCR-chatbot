@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/webhook/:path*",
+      "destination": "https://minhnhat.app.n8n.cloud/webhook/:path*"
+    }
+  ]
+}
